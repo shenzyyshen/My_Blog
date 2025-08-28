@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "My first story ",
+        "author": "By yours Truly Shen Shen",
+        "content": "Welcome to my blog! perhaps a glimpse into my subconscious. ",
+        "likes": 1
+    },
+    {
+        "id": 2,
+        "title": "Here we are ",
+        "author": "Shen Shen",
+        "content": "Summer is slowly fading here in Berlin, the heat softening into the kind of crisp mornings that remind you that seasons\u2014and chapters\u2014always turn. In many ways, it mirrors where I am in my journey with software development.\r\n\r\nWhen I first started, I imagined it would be a straight road: you learn, you build, you move forward. Instead, I\u2019ve discovered that it\u2019s a series of curves, loops, and the occasional detour. There are the ups\u2014when code finally runs after hours of debugging, or when a new concept clicks so clearly that you wonder how you didn\u2019t see it before. And then there are the downs\u2014syntax errors, broken builds, or the frustration of knowing what you want to create but not yet having the tools to bring it to life.\r\n\r\nBut every day adds a little more knowledge to the pile. Like layering brushstrokes on a canvas, these small increments start to reveal a bigger picture. What once felt overwhelming is slowly becoming familiar.\r\n\r\nSo here we are\u2014end of summer, still learning, still stumbling, still getting back up. If there\u2019s one thing this season has taught me, it\u2019s that progress in software development isn\u2019t about speed, it\u2019s about persistence. And with each line of code, each problem solved, the journey becomes a little more rewarding.",
+        "likes": 0
+    }
+]

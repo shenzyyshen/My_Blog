@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "author": "By Yours Truly",
+    "title": "First Post",
+    "content": "This is my first post."
+  },
+  {
+    "id": 2,
+    "author": "By Yours Truly  ",
+    "title": "Second Post",
+    "content": "This is another post."
+  }
+]
