@@ -25,3 +25,20 @@ cd my-flask-blog
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Run the app
+python app.py
+```
+
+Server runs on `http://localhost:5000`
+
+## Project Structure
+
+```
+My_Blog/
+├── app.py           # Flask routes and logic
+├── posts.json       # Blog post storage
+├── templates/       # HTML templates
+├── static/          # CSS styles
+└── requirements.txt
+```
