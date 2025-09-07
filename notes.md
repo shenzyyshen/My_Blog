@@ -9,3 +9,8 @@
 - `posts.json` is read and written on each operation
 - Each post has: id, author, title, content
 - IDs are auto-incremented by taking max(id) + 1
+
+## Flask Templates
+- Jinja2 templating: `{{ variable }}` for output, `{% for %}` for loops
+- `templates/base.html` provides the shared layout
+- Child templates use `{% extends %}` and `{% block %}` to fill in content
