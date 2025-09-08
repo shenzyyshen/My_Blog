@@ -42,3 +42,10 @@ My_Blog/
 ├── static/          # CSS styles
 └── requirements.txt
 ```
+
+## Key Learnings
+
+- Building Flask routes for CRUD operations
+- Reading and writing JSON as a simple data store
+- Jinja2 template inheritance with `extends` and `block`
+- Handling form data with `request.form`
