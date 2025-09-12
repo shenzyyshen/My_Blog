@@ -14,3 +14,9 @@
 - Jinja2 templating: `{{ variable }}` for output, `{% for %}` for loops
 - `templates/base.html` provides the shared layout
 - Child templates use `{% extends %}` and `{% block %}` to fill in content
+
+## Routing
+- `GET /` — shows all posts
+- `POST /add` — creates a new post from form data
+- `GET/POST /update/<id>` — shows form pre-filled with post data, saves on POST
+- `POST /delete/<id>` — removes post by ID from JSON and redirects
