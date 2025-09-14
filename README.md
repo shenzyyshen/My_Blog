@@ -49,3 +49,4 @@ My_Blog/
 - Reading and writing JSON as a simple data store
 - Jinja2 template inheritance with `extends` and `block`
 - Handling form data with `request.form`
+- Using `redirect()` and `url_for()` after POST to prevent duplicate submissions
